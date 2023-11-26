@@ -39,4 +39,4 @@ There still may be redundant columns in the data, it is up to you to choose what
 
 **6. Act:** what changes have to be implemented according to your findings?
 
-https://docs.google.com/spreadsheets/d/1CtYRdtgeoZziSVHrBdR1Wg0mXhQvHqZFPzm8tVrzxe8/edit#gid=108409262
+**The project:** https://docs.google.com/spreadsheets/d/1CtYRdtgeoZziSVHrBdR1Wg0mXhQvHqZFPzm8tVrzxe8/edit#gid=108409262
