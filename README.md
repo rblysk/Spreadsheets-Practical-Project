@@ -1,23 +1,30 @@
-# Spreadsheets-Practical-Project
-Utilising Spreadsheets for Data Analytics
+# SPREADSHEETS-PRACTICAL-PROJECT
 
-**Graded Task**		
+**UTILISING SPREADSHEETS FOR DATA ANALYTICS**
+
+**GRADED TAKS**	
+
+-----
 				
 **In this spreadsheet you have:**		
 1. AdventureWorks.salesorderheader (with salesreasonID)				
 2. AdventureWorks.salesreason				
 3. AdventureWorks.employee (with contact data)				
 4. AdventureWorks.SalesTerritory
- 
 				
-Some of the redundant columns have been removed here (as opposed to original SQL tables) to improve performance.				
+Some of the redundant columns have been removed here (as opposed to original SQL tables) to improve performance.
+
 There still may be redundant columns in the data, it is up to you to choose what to use and what not.	
 
+-----
 				
-**You've been tasked to populate the 'Overview' sheet with analytical insight:**			
-1. Business would like to see the monthly sales trend.				
-2. They would also like to evaluate online vs non-online orders.
+**You've been tasked to populate the 'Overview' sheet with analytical insight:**
+
+1. Business would like to see the monthly sales trend.
 			
+3. They would also like to evaluate online vs non-online orders.
+
+-----
 				
 **It would be nice for business to have an overview of:**			
 1. The delivery performance trend (orderdate & Shipdate lag)				
@@ -25,7 +32,11 @@ There still may be redundant columns in the data, it is up to you to choose what
 3. Top countries.				
 4. Top sales reasons				
 5. Maybe you have an idea for business what could be interesting to look into from this data?
-6. Technical part of the task should be followed by analytical part, so use structured approach to DA which you have learned in the first course. These are 6 steps you have to follow here:
+6. Technical part of the task should be followed by analytical part, so use structured approach to DA which you have learned in the first course.
+
+-----
+
+**These are 6 steps you have to follow here:**
    
 **1. Ask:** what question you have to answer to get a business value of the analysis?
 
@@ -39,4 +50,8 @@ There still may be redundant columns in the data, it is up to you to choose what
 
 **6. Act:** what changes have to be implemented according to your findings?
 
-**The project:** https://docs.google.com/spreadsheets/d/1CtYRdtgeoZziSVHrBdR1Wg0mXhQvHqZFPzm8tVrzxe8/edit#gid=108409262
+-----
+
+**THE PROJECT:** 
+
+https://docs.google.com/spreadsheets/d/1CtYRdtgeoZziSVHrBdR1Wg0mXhQvHqZFPzm8tVrzxe8/edit#gid=108409262
